@@ -6,7 +6,11 @@ from flask_jwt_extended import (create_access_token,
                                 jwt_required,
                                 jwt_refresh_token_required,
                                 get_jwt_identity, get_raw_jwt)
+from logger import log
+from logger import log,Print_log
 
+#print("hello")
+#log = get_logger(__name__)
 parser = reqparse.RequestParser()
 parser.add_argument('username',help="Required Field",required=True)
 parser.add_argument('password',help="Required Field",required=True)
@@ -15,13 +19,13 @@ parser.add_argument('password',help="Required Field",required=True)
 class user_registration(Resource):
     def post(self):
         data = parser.parse_args()
-        print(data)
+        #print(data)
         data_id=UserRepo().signup_user(data)
 
         access_token=create_access_token(identity=data['username'])
         refresh_token=create_refresh_token(identity=data['username'])
 
-        response={'message':'User created {}'.format(data['username']),
+        response={'message':'User created {'.format(data['username']),
                   'access_token':access_token,
                   'refresh_token':refresh_token
                   }
@@ -71,7 +75,9 @@ class user_logout_access(Resource):
         jti=get_raw_jwt()['jti']
         try:
             revoked_token=RevokeUserToken(jti=jti)
-            RevokeUserToken.add_token(revoked_token)
+            print(revoked_token)
+            #RevokeUserToken.add_token(revoked_token)
             return {'message': 'Access token has been revoked'}
-        except:
+        except Exception as e:
+            print(e)
             return {'message': 'Something wrong'}

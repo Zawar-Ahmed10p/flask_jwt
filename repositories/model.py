@@ -1,6 +1,6 @@
 from . import posts, token_db
 from passlib.hash import pbkdf2_sha256 as sha256
-
+from logger import log
 
 class UserRepo():
 
@@ -20,10 +20,12 @@ class UserRepo():
         return False
 
     def signup_user(self, post_data):
+        #log.debug(post_data['Name'])
+        print("signup user")
         post_data['password'] = UserRepo.generate_pwd_hash(post_data['password'])
         result = posts.insert_one(post_data)
         if result.inserted_id:
-            print('One post: {0}'.format(result.inserted_id))
+            #print('One post: {0}'.format(result.inserted_id))
             return result.inserted_id
         else:
             return False
@@ -66,18 +68,20 @@ class UserRepo():
 
 
 class RevokeUserToken():
-    def __init__(self):
+    def __init__(self,jti):
         pass
 
     @classmethod
     def check_jwt_list(cls, jti):
         try:
-            query=token_db.find_one({'token': jti})
+            print(jti)
+            query=token_db.find_one({'token': str(jti)})
 
-            print(query['token'])
-            return query['token']
-        except:
-            pass
+            #print(str(query['token']))
+            return bool(query)
+        except Exception as e:
+            print(e)
+            return "error"
         #token_db.insert_one({'token': jti})
 
     def add_token(self, jti):

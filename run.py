@@ -1,9 +1,12 @@
+#print (python.__version__)
+
 from flask import Flask
 from flask_restful import Api
 import controller, repositories
 from repositories.model import RevokeUserToken
 import services.resources as resources
 from flask_jwt_extended import JWTManager
+
 
 app=Flask(__name__)
 app.config['JWT_SECRET_KEY']='secret-string'
