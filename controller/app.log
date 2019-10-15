@@ -2,82 +2,9 @@ werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 werkzeug - INFO -  * Restarting with stat
 werkzeug - WARNING -  * Debugger is active!
 werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:43:37] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:43:55] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:44:35] "POST /registrati HTTP/1.1" 404 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:44:39] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/controller/views.py', reloading
-werkzeug - INFO -  * Restarting with stat
-werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:45:02] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/controller/views.py', reloading
-werkzeug - INFO -  * Restarting with stat
-werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-werkzeug - INFO -  * Restarting with stat
-werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:47:26] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:47:35] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:47:56] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:47:57] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:47:58] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:47:59] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-werkzeug - INFO -  * Restarting with stat
-werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:51:52] "POST /registration HTTP/1.1" 400 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:51:58] "POST /registration HTTP/1.1" 400 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:52:04] "POST /registration HTTP/1.1" 200 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:52:38] "POST /registration HTTP/1.1" 200 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:52:46] "POST /registration HTTP/1.1" 200 -
-werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/services/resources.py', reloading
-werkzeug - INFO -  * Restarting with stat
-werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/services/resources.py', reloading
-werkzeug - INFO -  * Restarting with stat
-werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/services/resources.py', reloading
-werkzeug - INFO -  * Restarting with stat
-werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:53:27] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:53:54] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:53:55] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:53:56] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:53:56] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:53:57] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:53:59] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:54:12] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:54:14] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:54:15] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:54:15] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:54:20] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:54:23] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:54:27] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:54:28] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:54:28] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 13:54:29] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 14:06:13] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 14:06:16] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 14:06:18] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/controller/views.py', reloading
-werkzeug - INFO -  * Restarting with stat
-werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-werkzeug - INFO -  * Restarting with stat
-werkzeug - WARNING -  * Debugger is active!
-werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 14:06:57] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 14:07:15] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 14:07:16] "POST /registration HTTP/1.1" 500 -
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 14:07:17] "POST /registration HTTP/1.1" 500 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 11:59:57] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 11:59:58] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 11:59:59] "POST /registration HTTP/1.1" 200 -
 werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/logger.py', reloading
 werkzeug - INFO -  * Restarting with stat
 werkzeug - WARNING -  * Debugger is active!
@@ -86,13 +13,151 @@ werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/logger.p
 werkzeug - INFO -  * Restarting with stat
 werkzeug - WARNING -  * Debugger is active!
 werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/logger.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/logger.py', reloading
+werkzeug - INFO -  * Restarting with stat
 werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 werkzeug - INFO -  * Restarting with stat
 werkzeug - WARNING -  * Debugger is active!
 werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 14:19:27] "POST /registration HTTP/1.1" 500 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:04:48] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:04:49] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:04:49] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:04:49] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:02] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:02] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:03] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:03] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:04] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:04] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:04] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:05] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:05] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:33] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:33] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:34] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:34] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:49] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:50] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:51] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:51] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:52] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:53] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:54] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:54] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:55] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:55] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:05:56] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:06:55] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:06:56] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:06:57] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:06:57] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:06:58] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:06:59] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:06:59] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:07:00] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:07:00] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:07:01] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/logger.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
 werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 werkzeug - INFO -  * Restarting with stat
 werkzeug - WARNING -  * Debugger is active!
 werkzeug - INFO -  * Debugger PIN: 681-308-373
-werkzeug - INFO - 127.0.0.1 - - [14/Oct/2019 14:20:20] "POST /registration HTTP/1.1" 500 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:08:02] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:08:03] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:08:03] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:08:04] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:08:04] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/logger.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:09:17] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:09:18] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:09:19] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:09:19] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:09:20] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:09:20] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/logger.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:10:53] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:10:54] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:10:55] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:10:56] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:10:57] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:10:58] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/logger.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:11:52] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:11:53] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:11:53] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:11:54] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:11:55] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:12:58] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:12:59] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:13:00] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:13:00] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:13:00] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:13:01] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO -  * Detected change in '/home/zawar/Workspace/jwtFlask/controller/views.py', reloading
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:13:47] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:15:48] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:19:42] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:19:43] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:19:43] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:19:44] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:20:46] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:20:46] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:20:47] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:21:13] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:21:14] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO - 127.0.0.1 - - [15/Oct/2019 12:21:14] "POST /registration HTTP/1.1" 200 -
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373
+werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+werkzeug - INFO -  * Restarting with stat
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 681-308-373

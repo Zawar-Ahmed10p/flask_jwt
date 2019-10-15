@@ -14,7 +14,6 @@ sys.stderr= sys.stdout
 
 @app.route('/')
 def index():
-    #print("sdasd")
     return jsonify({'message':'zat'})
 
 

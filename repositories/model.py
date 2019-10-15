@@ -22,7 +22,7 @@ class UserRepo():
     def signup_user(self, post_data):
         #log.debug(post_data['Name'])
         print("signup user")
-        post_data['password'] = UserRepo.generate_pwd_hash(post_data['password'])
+        post_data['pasword'] = UserRepo.generate_pwd_hash(post_data['password'])
         result = posts.insert_one(post_data)
         if result.inserted_id:
             #print('One post: {0}'.format(result.inserted_id))
